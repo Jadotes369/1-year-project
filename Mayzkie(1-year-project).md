@@ -3,16 +3,16 @@
 <h2> Project Mayzkie123 </h2>
   
 <h3> Good day!! If you are reading this right now, stay safe. I just want to share my goals and things this 2021 haha.  </h3> 
-  <p> Things to follow in order for me to go beyond: </p>
+  <p> Things to do daily: </p>
   <ul> 
   <li> Conserve energy. </li>
-  <li> sperad love. </li>
+  <li> Spread love. </li>
   <li> Focus </li>
   <li> Study hard and play hard. </li> 
   <li> Balance programming, Business , School and Dota. </li> 
   </ul> 
   
-  <p> Things to do this Year : </p> 
+  <p> Things to do this Year (2021)  : </p> 
   <ol> 
   <li> Achieve With high honors. </li> 
   <li> Achieve Macaulay Club in Sunlife. </li>
