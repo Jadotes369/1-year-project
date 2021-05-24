@@ -1,9 +1,10 @@
- 
+ <DOC!>
 <main> # 1-year-project
 <h2> Project Mayzkie123 </h2>
   
 <h3> Good day!! If you are reading this right now, stay safe. I just want to share my goals and things this 2021 haha.  </h3> 
   <p> Things to do daily: </p>
+ <Div> 
   <ul> 
   <li> Conserve energy. </li>
   <li> Spread love. </li>
@@ -18,6 +19,7 @@
   <li> Achieve Macaulay Club in Sunlife. </li>
   <li> Be admitted to MIT, Standford, UP diliman, and Waterloo. </li> 
   <li> Make a machinelearning / programming project that could help Filipinos live a better life. </ol> 
+ </Div> 
   <p class = red-text.> If you want to help me achieve the dreams I have, please click add me in my facebook account  <a href ="https://web.facebook.com/betty.algura.5"> here. </a> </p>  
  
   <h1> Rate the photo of my crush too hehe <3  <h1> 
@@ -27,6 +29,7 @@
  <p> Psych, That's not the link lmao </p>
  <p> type or add a code below this sentence, thanks. Wait, to add, click the edit button on the upper right side </p> 
   </main> 
+   </DOC!> 
 
 
 
